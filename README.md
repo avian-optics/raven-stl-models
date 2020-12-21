@@ -6,4 +6,4 @@
 
 ![OSS Raven](model-preview-2.jpeg?raw=true 'OSS Raven Model Preview')
 
-Note: This is still a work in progress. This project is still in reasearch and development and will update frequently.
+Note: This is still a work in progress. This project is still in research and development and will update frequently.
