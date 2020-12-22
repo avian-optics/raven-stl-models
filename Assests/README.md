@@ -17,7 +17,7 @@ Achromatic doublet lens for image projection.
 
 Plano Concave lens for image projection.
 
-![OSS Raven](Ada-rotary-encoder-plus-button.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](Ada-Rotary-encoder.jpg?raw=true 'OSS Raven Model Preview')
 
 Rotary encoder w/ button for menu Navigation.
 
