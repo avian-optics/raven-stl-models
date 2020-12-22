@@ -5,7 +5,7 @@ Assets used to model Raven frame , all models built to scale details on chips mi
 
 Note: This is still a work in progress. This project is still in research and development and will update frequently.
 
-![OSS Raven](1.5in-oled.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](1.5in oled.jpg?raw=true 'OSS Raven Model Preview')
 
 1.5 inch 128x128 oled display
 
