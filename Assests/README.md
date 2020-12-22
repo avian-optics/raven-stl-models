@@ -5,7 +5,7 @@ Assets used to model Raven frame , all models built to scale details on chips mi
 
 Note: This is still a work in progress. This project is still in research and development and will update frequently.
 
-![OSS Raven](1-.-5in-oled.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](1.5in-oled.jpg?raw=true 'OSS Raven Model Preview')
 
 1.5 inch 128x128 oled display
 
@@ -13,15 +13,15 @@ Note: This is still a work in progress. This project is still in research and de
 
 Achromatic doublet lens for image projection.
 
-![OSS Raven](concave.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](Concave.jpg?raw=true 'OSS Raven Model Preview')
 
 Plano Concave lens for image projection.
 
-![OSS Raven](Ada-rotary-encoder-plus-button.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](Ada-Rotatry-encoder-plus-button.jpg?raw=true 'OSS Raven Model Preview')
 
 Rotary encoder w/ button for menu Navigation.
 
-![OSS Raven](Feather-M4.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](Feather_M4.jpg?raw=true 'OSS Raven Model Preview')
 
 Adafruit Feather M4 current brains.
 
