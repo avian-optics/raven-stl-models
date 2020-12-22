@@ -9,7 +9,7 @@ Note: This is still a work in progress. This project is still in research and de
 
 1.5 inch 128x128 oled display
 
-![OSS Raven](achro.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](Achro.jpg?raw=true 'OSS Raven Model Preview')
 
 Achromatic doublet lens for image projection.
 
