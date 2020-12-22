@@ -21,7 +21,7 @@ Plano Concave lens for image projection.
 
 Rotary encoder w/ button for menu Navigation.
 
-![OSS Raven](Feather_M4.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](Feather-M4.jpg?raw=true 'OSS Raven Model Preview')
 
 Adafruit Feather M4 current brains.
 
@@ -45,7 +45,7 @@ Adafruit Pressure/Humidity/Temperature sensor for BDC.
 
 Sparkfun shake awake for power preservation
 
-![OSS Raven](PI-4-3-sensor-with-lens.jpg?raw=true 'OSS Raven Model Preview')
+![OSS Raven](PI-4-3-sensor-with--lens.jpg?raw=true 'OSS Raven Model Preview')
 
 Pi micro 4/3 sensor w/ Lens for future feature.
 
