@@ -43,7 +43,7 @@ Adafruit Pressure/Humidity/Temperature sensor for BDC.
 
 ![OSS Raven](Sparkfun-wake-on-shake.jpg?raw=true 'OSS Raven Model Preview')
 
-Sparkfun shake awake for power preservation.
+Sparkfun shake awake for power preservation
 
 ![OSS Raven](PI-4-3-sensor-with-lens.jpg?raw=true 'OSS Raven Model Preview')
 
